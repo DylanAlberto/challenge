@@ -1,0 +1,6 @@
+{
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "go.lintTool": "golangci-lint",
+    "editor.hover.enabled": true
+}
